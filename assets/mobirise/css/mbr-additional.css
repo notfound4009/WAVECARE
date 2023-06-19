@@ -683,7 +683,7 @@ a {
   transition: color 0.6s;
 }
 .cid-trMznD0RnF {
-  background-image: url("../../../assets/images/ben-kolde-bs2ba7t69mm-unsplash-2000x2551.jpg");
+  background-image: url("../../../assets/images/faizur-rehman-yapbrdpwxik-unsplash-2000x1202.jpg");
 }
 .cid-trMznD0RnF .mbr-fallback-image.disabled {
   display: none;
@@ -696,6 +696,14 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
+}
+.cid-trMznD0RnF .mbr-section-subtitle {
+  color: #ff0000;
+  text-align: right;
+}
+.cid-trMznD0RnF .mbr-text,
+.cid-trMznD0RnF .mbr-section-btn {
+  color: #24e81b;
 }
 .cid-s48MCQYojq {
   padding-top: 5rem;
