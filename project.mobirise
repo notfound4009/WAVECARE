@@ -58,10 +58,11 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Wave Care And Solution\nWe focus on emerging technologies for building high performing web & mobile products that can be securely deployed in the cloud",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/faizur-rehman-yapbrdpwxik-unsplash-2000x1202.jpg"
       },
       "components": [
         {
